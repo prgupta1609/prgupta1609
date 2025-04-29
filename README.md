@@ -2,14 +2,14 @@
 
 🎓 B.Tech CSE student at Amity University, Noida  
 🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI  
-💻 Skilled in Python, C++, Data Structures & Algorithms, OOPs, and Java  
+💻 Skilled in Python, C++, Data Structures & Algorithms, OOPS.
 
 ---
 
 ### 👀 I’m interested in:
 - Building intelligent systems that solve real-world problems  
 - Developing AI/ML-powered applications  
-- Exploring Generative AI and NFTs  
+- Exploring Generative AI  
 - Contributing to open-source projects in the AI/ML domain  
 
 ---
@@ -18,14 +18,13 @@
 - Advanced Python for data science and placements  
 - Machine Learning with real-world datasets  
 - Open-source contribution and project collaboration  
-- Haystack for building NLP-based applications  
+
 
 ---
 
 ### 💞️ I’m looking to collaborate on:
 - AI/ML research or development projects  
 - Hackathons and coding competitions  
-- Open-source projects involving NLP, computer vision, or Generative AI  
 
 ---
 
