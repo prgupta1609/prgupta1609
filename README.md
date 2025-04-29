@@ -30,8 +30,8 @@
 ---
 
 ### 📫 How to reach me:
-- 📧 Email: [priyagupta1609@gmail.com](mailto:priyagupta1609@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/priyagupta1609](https://linkedin.com/in/priyagupta1609)  
+- 📧 Email: [priyagupta08506@gmail.com](mailto:priyagupta08506@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/prgupta1609](https://linkedin.com/in/prgupta1609)  
   
 
 ---
